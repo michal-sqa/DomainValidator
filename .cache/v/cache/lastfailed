@@ -1,0 +1,6 @@
+{
+  "test_domain_validation.py::test_absent_domain_values": true,
+  "test_domain_validation.py::test_domain_values": true,
+  "test_domain_validation.py::test_domain_values2": true,
+  "test_domain_validation.py::test_surplus_domain_values": true
+}
