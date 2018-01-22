@@ -1,6 +1,6 @@
 server_and_port = "phoenix-uat.ihs.com:80"
 user = "admin"
-password = "phoenixkrolempolski"
+password = "none"
 
 class Environment:
 
