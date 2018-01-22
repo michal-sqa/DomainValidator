@@ -6,8 +6,8 @@ def pytest_addoption(parser):
     parser.addoption("--env2", default='stage')
     parser.addoption("--user1", default='admin')
     parser.addoption("--user2", default='admin')
-    parser.addoption("--password1", default='phoenixkrolempolski')
-    parser.addoption("--password2", default='Br5zJvbLg3DnUm7rLrSz')
+    parser.addoption("--password1", default='none')
+    parser.addoption("--password2", default='none')
     parser.addoption("--domain", default='Resource(Taxonomy)')
 
 @pytest.fixture
