@@ -27,7 +27,6 @@ class Environment:
 
 uat = Environment('phoenix-uat.ihs.com:80')
 stage = Environment('sphoenix.ihsglobal.local:80')
-prod = Environment('phoenix.ihsglobal.local:80')
 
 environments = {}
 environments['uat'] = uat
