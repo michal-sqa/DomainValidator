@@ -31,4 +31,3 @@ stage = Environment('sphoenix.ihsglobal.local:80')
 environments = {}
 environments['uat'] = uat
 environments['stage'] = stage
-environments['prod'] = prod
